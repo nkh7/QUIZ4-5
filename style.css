@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(252, 248, 7);
+  }
+
+
+#form { 
+    text-align: center;
+    font-size: x-large;
+    
+}
+label { 
+    font-size: large; 
+    color: blue; 
+    text-decoration: underline;
+}
+input { 
+    border-color: rgb(59, 224, 26);
+    font-size: large;
+}
+#submit {
+    font-size: x-large;
+}
+input {
+    width: 300px;
+}
+#pass {
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+    font-size: x-large;
+}
+th {
+    width: 200px;
+    font-size: 20px;
+    padding: 0px;
+    border-style: solid;
+}
+table {
+    text-align: center;
+}
